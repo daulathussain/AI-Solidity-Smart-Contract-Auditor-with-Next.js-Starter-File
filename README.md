@@ -2,7 +2,7 @@
 
 ![alt text](https://www.daulathussain.com/wp-content/uploads/2026/03/Build-Deploy-an-AI-Smart-Contract-Auditor-with-Next.js-Supabase-OpenAI-LLM-Solidity-Security.jpg)
 
-- [Final Source Code]()
+- [Final Source Code](https://www.theblockchaincoders.com/sourceCode/build-and-deploy-an-ai-smart-contract-auditor-with-next.js-supabase-openai-and-llm-or-solidity-security-course)
 
 #### Setup Video
 
